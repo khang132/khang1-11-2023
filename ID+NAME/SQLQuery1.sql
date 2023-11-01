@@ -1,0 +1,1 @@
+﻿select makhoa FROM Khoa
